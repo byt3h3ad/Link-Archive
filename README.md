@@ -29,4 +29,5 @@ Free and open source Markdown based note-taking and to-do list. Notes can be org
 Hierarchical note taking application with focus on building large personal knowledge bases.
 
 [Foam](https://foambubble.github.io/foam/)
-Personal knowledge management and sharing system inspired by Roam, built on VSC and GitHub.
+
+Personal knowledge management and sharing system inspired by Roam, built on VSC and [GitHub](https://github.com/foambubble/foam).
