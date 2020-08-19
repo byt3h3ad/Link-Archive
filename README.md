@@ -11,6 +11,9 @@ Webrecorder creates an interactive copy of any web page that you browse, includi
 
 Takes a 'snapshot' of a webpage that will always be online even if the original page disappears. It saves a text and a graphical copy of the page for better accuracy and provides a short and reliable link to an unalterable record of any web page.
 
+[Archivy](https://github.com/Uzay-G/archivy)
+
+Self hosted knowledge repository. 
 
 # second-brain
 
